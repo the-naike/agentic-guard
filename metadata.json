@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Guard",
+  "description": "A trust-based multi-agent system for autonomous threat hunting in cloud environments with continuous Zero Trust policy governance, LLM explanation, and tamper-evident audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
